@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#7EB1DAEF",
+        "font" : "System Light",
+        "color" : "#9191919B"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#E8EBF1FF",
+        "font" : "System",
+        "color" : "#6E6E6EFF"
+      },
+      "backgroundSelected" : "#1451DEFF",
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#FFFFFFF2",
+        "font" : "System Light",
+        "color" : "#000000B2"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 48
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#F5F5F500",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#101010FF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#DEDEDEE5",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#B0B0B000",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Sinan Yasar",
+    "separator" : {
+      "color" : "#F5F5F500",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#D5D5D5FF",
+      "thickness" : 2
+    },
+    "name" : "Alfredo"
+  }
+}
